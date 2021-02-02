@@ -38,6 +38,18 @@ body
 
 .bodyImg p
 {
+    color: blue;
     text-align : center;
     font-size : 50px;   
+    position : absolute;
+    top : 25%;
+    left : 25%;
+}
+
+.bodyImg h3
+{
+    position : absolute;
+    top : 50%;
+    left : 10%;
+    color : green;
 }
